@@ -1,17 +1,7 @@
 # Snakes & Ladders
 HTML5 E-Learning game on basis of Multiple Choice Questions. This game has 5 levels and 5 different topics. By playing the game the user will definely reach in nearby point of snake and ladder. At that time a question will be asked to the user. If he/she attempts question correctly then the tick will go up with the ladder. And if attempted incorret then snake will bite and the tick will fall to the snake's tail. What are you waiting for? Let's play!
 
-Author: [Ashok Shah](https://www.shahnashok.com)
 
-[DEMO](https://rx4hvn.github.io/snakes-and-ladders/)
-
-[DEMO OPTIONS](https://rx4hvn.github.io/snakes-and-ladders/#debug)
-
-## Browser Support
-- IE 10+
-- Chrome
-- Safari
-- Firefox
 
 
 ## Short Description
